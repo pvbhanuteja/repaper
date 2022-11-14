@@ -10,13 +10,13 @@ repaper
         :target: https://travis-ci.com/pvbhanuteja/repaper
 
 .. image:: https://readthedocs.org/projects/repaper/badge/?version=latest
-        :target: https://repaper.readthedocs.io/en/latest/?version=latest
+        :target: https://re-paper.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/pvbhanuteja/repaper/shield.svg
-     :target: https://pyup.io/repos/github/pvbhanuteja/repaper/
-     :alt: Updates
+.. .. image:: https://pyup.io/repos/github/pvbhanuteja/repaper/shield.svg
+..      :target: https://pyup.io/repos/github/pvbhanuteja/repaper/
+..      :alt: Updates
 
 
 
