@@ -24,7 +24,7 @@ Convert form based PDF documents to web based froms or editable pdf forms.
 
 
 * Free software: MIT license
-* Documentation: https://repaper.readthedocs.io.
+* Documentation: https://re-paper.readthedocs.io.
 
 ============
 Installation
