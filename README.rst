@@ -53,6 +53,7 @@ To use repaper in a project::
 
 
 To generate a google form from the a form image::
+
     from repaper import repaper
 
     re_paper = repaper('../samples/test.jpg')
@@ -63,12 +64,9 @@ To generate a google form from the a form image::
     edit and publish the form to make it accessible to others''')
 
 Command line usage to generate google form from image::
+
     repaper google-form --img_path ./samples/test.jpg --oauth_json ./secrets/credentials.json
 
-
-=======
-Credits
-=======
 
 Development Lead
 ----------------
