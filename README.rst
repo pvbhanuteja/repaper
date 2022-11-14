@@ -9,7 +9,7 @@ repaper
 .. image:: https://img.shields.io/travis/pvbhanuteja/repaper.svg
         :target: https://travis-ci.com/pvbhanuteja/repaper
 
-.. image:: https://readthedocs.org/projects/repaper/badge/?version=latest
+.. image:: https://readthedocs.org/projects/re-paper/badge/?version=latest
         :target: https://re-paper.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
