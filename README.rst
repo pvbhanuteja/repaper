@@ -34,6 +34,9 @@ Features
 
 Credits
 -------
+Portions of this research were conducted with the advanced computing resources provided by `Texas A&M High Performance Research Computing`_.
+
+.. _`Texas A&M High Performance Research Computing`: https://hprc.tamu.edu/research/citations.html
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
