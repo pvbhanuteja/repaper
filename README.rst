@@ -66,6 +66,21 @@ Command line usage to generate google form from image::
     repaper google-form --img_path ./samples/test.jpg --oauth_json ./secrets/credentials.json
 
 
+=======
+Credits
+=======
+
+Development Lead
+----------------
+
+* Bhanu Pallakonda <pvbhanuteja@gmail.com>
+* Gaurav Sood <gsood07@gmail.com>
+
+Contributors
+------------
+
+None yet. Why not be the first?
+
 
 Features
 --------
