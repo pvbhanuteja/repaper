@@ -14,8 +14,8 @@ repaper
         :alt: Documentation Status
 
 .. image:: https://pyup.io/repos/github/pvbhanuteja/repaper/shield.svg
-..      :target: https://pyup.io/repos/github/pvbhanuteja/repaper/
-..      :alt: Updates
+        :target: https://pyup.io/repos/github/pvbhanuteja/repaper/
+        :alt: Updates
 
 .. image:: https://pepy.tech/badge/repaper
         :target: https://pepy.tech/badge/repaper
