@@ -11,3 +11,5 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 pytesseract
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
