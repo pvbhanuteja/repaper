@@ -13,14 +13,16 @@ repaper
         :target: https://re-paper.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-
-.. .. image:: https://pyup.io/repos/github/pvbhanuteja/repaper/shield.svg
+.. image:: https://pyup.io/repos/github/pvbhanuteja/repaper/shield.svg
 ..      :target: https://pyup.io/repos/github/pvbhanuteja/repaper/
 ..      :alt: Updates
 
+.. image:: https://pepy.tech/badge/repaper
+        :target: https://pepy.tech/badge/repaper
+        :alt: Downloads
 
 
-Convert form based PDF documents to web based froms or editable pdf forms. 
+Convert photo of a form to web based froms or editable pdf forms. 
 
 
 * Free software: MIT license
