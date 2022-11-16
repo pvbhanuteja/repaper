@@ -10,12 +10,23 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements, dependency_links = [], []
-with open('requirements.txt') as f:
-    for line in f.read().splitlines():
-        requirements.append(line)
+requirements = ['transformers==4.24.0',
+                'datasets==2.6.1',
+                'pillow==9.3.0',
+                'torch',
+                'easyocr==1.6.2',
+                'reportlab==3.6.12',
+                'gspread==5.6.2',
+                'oauth2client==4.1.3',
+                'Click==7.1.2',
+                'google-api-python-client',
+                'google-auth-httplib2',
+                'google-auth-oauthlib',
+                'pytesseract',
+                'setuptools>=65.5.1',  # not directly required, pinned by Snyk to avoid a vulnerability
+                'wheel>=0.38.0']  # not directly required, pinned by Snyk to avoid a vulnerability]
 
-test_requirements = [ ]
+test_requirements = []
 
 setup(
     author="Bhanu Pallakonda",
