@@ -6,7 +6,7 @@ Development Lead
 ----------------
 
 * Bhanu Pallakonda <pvbhanuteja@gmail.com>
-* Gaurav Sood <gsood07@gmail.com>
+* Gaurav Sood
 
 Contributors
 ------------
